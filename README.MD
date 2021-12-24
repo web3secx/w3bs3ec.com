@@ -13,7 +13,7 @@ This project is perpetually a work in progress. There isnt a change log, since I
 
 # Tips 
 
-Should you find this project useful in anyway. Please consider sending me a tip in $XMR at the following address 
+Should you find this project useful in anyway. Please consider sending me a tip in `$XMR` at the following address 
 
 ```
 89o5d95AKfYbKSPwETaCpEE1AF4vyxVR9UmdP78iNBd4DjquY6Cwg3VFiDwys3iFCnHkvJU6i4fe4dAuAeSN4i13NnTSVF1
